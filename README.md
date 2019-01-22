@@ -2,7 +2,7 @@
 
 I know this tool wasn't to do Brute-Force tool but i loved that name.
 
-This tool is faster than alternatives because it sends asynchronous requests. You can also see the % status on the CLI. This way you can guess how much word remaining. At the end of the study you can see all the request and response codes on a csv file.
+This tool is faster than alternatives because it sends asynchronous requests. You can also see the % status on the CLI. This way you can guess how much word remaining. At the end, you can see all the requests and response codes in a csv file.
 
 
 # Usage
